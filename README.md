@@ -43,8 +43,8 @@ Développer une application complète d’analyse vidéo des matchs de football 
 
 1. Clone ce repo :
 ```bash
-git clone https://github.com/yass-25/football-analysis2.git
-cd football-analysis2
+git clone https://github.com/yass-25/football-analysis.git
+cd football-analysis
 ```
 
 2. Crée un environnement virtuel :
