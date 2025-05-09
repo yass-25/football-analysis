@@ -1,9 +1,4 @@
 # ⚽ Football Match Tactical Analysis App
-
-> Projet de fin d'études — Télécom SudParis — VAP MAIA 2024-2025  
-> Réalisé par Marinet Henein, Yasmine Ider et Laura Peyret  
-> Tuteur : Julien Romero
-
 ## 🎯 Objectif
 
 Développer une application complète d’analyse vidéo des matchs de football permettant :
